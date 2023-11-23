@@ -31,14 +31,15 @@ body {
 }
 .footer__input{
   padding: 10px 10px;
-  max-width: 400px;
-  width: 100%;
+  min-width: 250px;
+  width: 40%;
 }
 .footer__button{
   height: 30px;
   width: 100px;
   border: none;
   border-radius: 7px;
+  cursor: pointer;
 }
 
 .header{
